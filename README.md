@@ -12,7 +12,7 @@ My objetive is.. Become a high-level web developer.
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: ["Javascript", "Typescript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
          js: ["React"],
