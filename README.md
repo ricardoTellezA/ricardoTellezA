@@ -21,7 +21,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         PHP: [Laravel]
+         PHP: ["Laravel"]
        
         },
       databases: ["MongoDB", "mySQL", "SQLServer"],
